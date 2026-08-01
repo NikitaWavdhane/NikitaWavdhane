@@ -2,7 +2,8 @@ Hi, I'm Nikita Wavdhane 👋
 
 🎓 Student
 💻 Learning Python, HTML, CSS, JavaScript
-🌱 Currently improving my coding skills
+
+Currently improving my coding skills
 
 ## Skills
 - Python
