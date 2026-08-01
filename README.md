@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Nikita Wavdhane 👋
 
-<!--
-**NikitaWavdhane/NikitaWavdhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student
+💻 Learning Python, HTML, CSS, JavaScript
+🌱 Currently improving my coding skills
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Builder
+- Simple Calculator
+- Online agent system
+
+## Contact
+Email: nikitawavdhane7@gmail.com
+
