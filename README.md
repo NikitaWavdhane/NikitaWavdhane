@@ -1,4 +1,4 @@
-Hi, I'm Nikita Wavdhane 👋
+#Hi, I'm Nikita Wavdhane 👋
 
 🎓 Student
 💻 Learning Python, HTML, CSS, JavaScript
